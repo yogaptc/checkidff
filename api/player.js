@@ -3,7 +3,7 @@
 // No region needed - region is auto-detected and returned in the response.
 
 const UPSTREAM = "https://imran.bro.bd/api/imu";
-const AUTHOR = "Yoga"; // <-- change this to your name
+const AUTHOR = "IMRAN"; // <-- change this to your name
 const TIMEOUT_MS = 10000;
 
 module.exports = async (req, res) => {
